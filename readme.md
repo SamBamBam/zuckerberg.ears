@@ -1,11 +1,6 @@
-# zuckerberg.smile
-> Control Mark Zuckerbergs smile property 
+# zuckerberg.ears
+> Control Mark Zuckerbergs ears 
 
-Try it yourself here: https://terkelg.github.io/zuckerberg.smile/
+Try it yourself here: https://sambambam.github.io/zuckerberg.ears/
 
-Remember when he tried to convince us he [was human](https://www.youtube.com/watch?v=2qGVVxaosDM)?
-
-
-## License
-
-MIT © [Terkel Gjervig](https://terkel.com)
+(Forked from https://github.com/terkelg/zuckerberg.smile, https://terkelg.github.io/zuckerberg.smile/)
